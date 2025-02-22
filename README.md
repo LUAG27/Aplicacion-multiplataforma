@@ -23,7 +23,10 @@ En el apartado de Microsoft y Mac, en algunas ocasiones se puede agregar una tab
 
 # Planificación y Diseño:
 
-Definir los requisitos y objetivos de la aplicación.
-Crear prototipos para definir la interfaz de usuario (UI).
-Desarrollar la lógica de la aplicación y la interfaz.
-Pruebas en dispositivos reales para asegurar la correcta ejecución en diferentes plataformas.
+  Definir los requisitos y objetivos de la aplicación.
+
+  Crear prototipos para definir la interfaz de usuario (UI).
+
+  Desarrollar la lógica de la aplicación y la interfaz.
+
+  Pruebas en dispositivos reales para asegurar la correcta ejecución en diferentes plataformas.
